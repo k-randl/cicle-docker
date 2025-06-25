@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn==1.6.1
+crepes==0.8.0
+ollama
+tqdm
+requests
